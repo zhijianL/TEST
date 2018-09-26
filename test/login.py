@@ -1,5 +1,5 @@
 num1 = 10
 num2 = 20 manager
 
-num3 = 30 zhijian
-num4 = 40 zhijian 
+num3 = 30 
+num4 = 40  
